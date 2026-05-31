@@ -1,0 +1,16 @@
+parameter,gender,min_age,max_age,lower,upper,unit
+Hemoglobin,Male,18,100,13.0,17.0,g/dL
+Hemoglobin,Female,18,100,12.0,15.0,g/dL
+RBC Count,Male,18,100,4.7,6.1,million/uL
+RBC Count,Female,18,100,4.2,5.4,million/uL
+WBC Count,Any,0,100,4000,11000,cells/uL
+Platelet Count,Any,0,100,150000,450000,cells/uL
+Glucose (Fasting),Any,18,100,70,100,mg/dL
+HbA1c,Any,18,100,4.0,5.6,%
+Total Cholesterol,Any,18,100,0,200,mg/dL
+LDL Cholesterol,Any,18,100,0,100,mg/dL
+HDL Cholesterol,Male,18,100,40,60,mg/dL
+HDL Cholesterol,Female,18,100,50,60,mg/dL
+Triglycerides,Any,18,100,0,150,mg/dL
+Creatinine,Male,18,100,0.7,1.3,mg/dL
+Creatinine,Female,18,100,0.6,1.1,mg/dL
